@@ -54,12 +54,4 @@
 
 ---
 
-### Featured Projects
-
-<a href="https://github.com/mshykhov/gitops-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mshykhov&repo=gitops-platform&theme=dark&hide_border=true" />
-</a>
-
----
-
 <sub>Building things that scale ⚡</sub>
