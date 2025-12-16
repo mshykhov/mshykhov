@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hey, I'm Myron 👋
 
-<!--
-**mshykhov/mshykhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer** crafting robust APIs and cloud-native solutions with **Kotlin** & **Java**
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/myronshykhov)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mshykhov)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:myronshykhov@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+- 5+ years building backend systems in **e-commerce**, **payments**, **booking platforms**
+- Currently exploring **GitOps**, **Kubernetes**, and **Platform Engineering**
+- Based in Ukraine 🇺🇦
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**Backend**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+### Featured Projects
+
+<a href="https://github.com/mshykhov/gitops-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mshykhov&repo=gitops-platform&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/mshykhov/CatBot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mshykhov&repo=CatBot&theme=dark&hide_border=true" />
+</a>
+
+---
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=mshykhov&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+---
+
+<sub>Building things that scale ⚡</sub>
