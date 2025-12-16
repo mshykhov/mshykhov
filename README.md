@@ -46,15 +46,18 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
+**Testing**
+
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat&logo=mockito&logoColor=white)
+![TestContainers](https://img.shields.io/badge/TestContainers-2496ED?style=flat&logo=docker&logoColor=white)
+
 ---
 
 ### Featured Projects
 
 <a href="https://github.com/mshykhov/gitops-platform">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mshykhov&repo=gitops-platform&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/mshykhov/CatBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mshykhov&repo=CatBot&theme=dark&hide_border=true" />
 </a>
 
 ---
