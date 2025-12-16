@@ -12,7 +12,6 @@
 
 - 5+ years building backend systems in **e-commerce**, **payments**, **booking platforms**
 - Currently exploring **GitOps**, **Kubernetes**, and **Platform Engineering**
-- Based in Ukraine 🇺🇦
 
 ---
 
@@ -49,12 +48,6 @@
 <a href="https://github.com/mshykhov/CatBot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mshykhov&repo=CatBot&theme=dark&hide_border=true" />
 </a>
-
----
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=mshykhov&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 ---
 
