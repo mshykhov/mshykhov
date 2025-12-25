@@ -53,6 +53,3 @@
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat&logo=mockito&logoColor=white)
 ![TestContainers](https://img.shields.io/badge/TestContainers-2496ED?style=flat&logo=docker&logoColor=white)
 
----
-
-<sub>Building things that scale ⚡</sub>
