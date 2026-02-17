@@ -22,9 +22,12 @@
 
 ### 🧑‍💻 About
 
-- Building backend systems in **cloud marketplaces**, **restaurant booking**, **payments & invoicing**, **platform engineering**
-- Took on backend team lead responsibilities — sprint demos, task coordination, cross-team communication
-- Currently working on **platform engineering**, **fine-grained authorization**, and **Spring migrations at scale**
+- Worked in teams of 3–12 people, both in **product** and **outstaff** setups
+- Built backend services, BFF layers, API integrations, and automated business processes
+- Domains: **cloud marketplaces**, **restaurant booking**, **payments & invoicing**, **data extraction**
+- Took on **backend team lead** responsibilities — sprint demos, task coordination, cross-team communication
+- Currently focused on **platform engineering**, **fine-grained authorization (FGA)**, and **Spring migrations at scale**
+- Open to remote backend positions — fintech, cloud services, iGaming, or Web3
 
 &nbsp;
 
