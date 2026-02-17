@@ -23,11 +23,13 @@
 ### 🧑‍💻 About
 
 - Worked in teams of 3–12 people, both in **product** and **outstaff** setups
-- Built backend services, BFF layers, API integrations, and automated business processes
+- Skilled in building **backend services**, **BFF layers**, **API integrations**, and **automating business processes**
 - Domains: **cloud marketplaces**, **restaurant booking**, **payments & invoicing**, **data extraction**
 - Took on **backend team lead** responsibilities — sprint demos, task coordination, cross-team communication
-- Currently focused on **platform engineering**, **fine-grained authorization (FGA)**, and **Spring migrations at scale**
-- Open to remote backend positions — fintech, cloud services, iGaming, or Web3
+- Fast learner who takes initiative and full ownership of results
+- Strong cross-team collaborator — comfortable working with mobile, QA, product, and platform teams
+- Passionate about **clean architecture**, **performance optimization**, and **automating manual processes**
+- Open to remote backend positions — **fintech**, **cloud services**, **iGaming**, or **Web3**
 
 &nbsp;
 
@@ -41,11 +43,21 @@
 **Backend & Frameworks**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
 ![Axon Framework](https://img.shields.io/badge/Axon_Framework-333333?style=flat-square&logoColor=white)
+![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Project Reactor](https://img.shields.io/badge/Project_Reactor-6DB33F?style=flat-square&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat-square&logo=liquibase&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+**API & Protocols**
+
+![REST](https://img.shields.io/badge/REST-009688?style=flat-square&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white)
 
 **Databases & Messaging**
 
@@ -80,6 +92,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![PactFlow](https://img.shields.io/badge/PactFlow-333333?style=flat-square&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square&logoColor=white)
 ![MockK](https://img.shields.io/badge/MockK-7F52FF?style=flat-square&logoColor=white)
 ![Kotest](https://img.shields.io/badge/Kotest-7F52FF?style=flat-square&logoColor=white)
 ![TestContainers](https://img.shields.io/badge/TestContainers-2496ED?style=flat-square&logo=docker&logoColor=white)
