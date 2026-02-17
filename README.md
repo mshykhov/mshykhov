@@ -2,6 +2,7 @@
 
 **Senior Backend Engineer** with 5+ years of experience, specializing in **Kotlin** & **Java** with Spring ecosystem
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mshykhov.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://mshykhov.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mshykhov)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mshykhov)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:myronshykhov@gmail.com)
@@ -13,6 +14,7 @@
 - 5+ years building backend systems in **cloud marketplaces**, **restaurant booking**, **payments & invoicing**, **platform engineering**
 - Took on backend team lead responsibilities — sprint demos, task coordination, cross-team communication
 - Currently working on **platform engineering**, **fine-grained authorization**, and **Spring migrations at scale**
+- Check out my full CV & portfolio at **[mshykhov.com](https://mshykhov.com)**
 
 ---
 
