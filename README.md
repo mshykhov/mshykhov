@@ -11,7 +11,8 @@ Senior backend engineer working with Kotlin, Java and Spring. I build backend se
 | [Job Hunter](https://github.com/mshykhov/job-hunter) | Collects job listings, matches them to preferences and tracks applications. Kotlin API, React dashboard and workflow automation. |
 | [Telegram MCP Readonly](https://github.com/mshykhov/telegram-mcp-readonly) | Lets MCP clients search and read Telegram conversations. |
 | [GitOps Platform](https://github.com/mshykhov/gitops-platform) | A Kubernetes reference setup with ArgoCD, application deployment and monitoring. |
-| [Notify Bridge](https://github.com/mshykhov/notify-bridge) | Routes notifications to Telegram and Pushover through a Kotlin service with a REST API. |
+| [Inbox Watcher](https://github.com/mshykhov/inbox-watcher) | Classifies Gmail messages and sends useful Telegram alerts. Kotlin, SQLite and HTTP integrations. |
+| [Expense Ledger Bot](https://github.com/mshykhov/expense-ledger-bot) | Records approved financial entries in PostgreSQL with an outbox and optional Google Sheets projection. |
 | [PiKVM Wispr Bridge](https://github.com/mshykhov/pikvm-wispr-bridge) | Types voice dictation into a computer connected through PiKVM. |
 
-For backend code, start with [Job Hunter API](https://github.com/mshykhov/job-hunter-api).
+For backend code, start with [Job Hunter API](https://github.com/mshykhov/job-hunter-api). My [CV site template](https://github.com/mshykhov/cv-site-template) is also available to reuse.
